@@ -1,0 +1,15 @@
+{
+  "name": "mike-worrall",
+  "version": "1.0.0",
+  "description": "React.js front end for Mike Worrall's website.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "callum-worrall",
+  "license": "MIT"
+}
